@@ -1,5 +1,3 @@
-![https://i.imgur.com/KEbg2dC.jpg](https://i.imgur.com/KEbg2dC.jpg)
-
 # Airbnb Homepage build with Tailwind CSS
 
 A simple starter project for playing around with Tailwind in a proper PostCSS environment. I used Airbnb as a source of inspiration to teach how to use the framework.
@@ -8,33 +6,33 @@ To get started:
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/justalever/tailwind-airbnb tailwind-airbnb
+   ```bash
+   git clone https://github.com/justalever/tailwind-airbnb tailwind-airbnb
 
-    cd tailwind-airbnb
-    ```
+   cd tailwind-airbnb
+   ```
 
 2. Install the dependencies:
 
-    ```bash
-    # Using npm
-    npm install
+   ```bash
+   # Using npm
+   npm install
 
-    # Using Yarn
-    yarn
-    ```
+   # Using Yarn
+   yarn
+   ```
 
 3. Start the development server:
 
-    ```bash
-    # Using npm
-    npm run serve
+   ```bash
+   # Using npm
+   npm run serve
 
-    # Using Yarn
-    yarn run serve
-    ```
+   # Using Yarn
+   yarn run serve
+   ```
 
-    Now you should be able to see the project running at localhost:8080.
+   Now you should be able to see the project running at localhost:8080.
 
 4. Open `public/index.html` in your editor and start experimenting!
 
@@ -53,4 +51,7 @@ yarn run production
 ```
 
 After that's done, check out `./public/build/tailwind.css` to see the optimized output.
+
 # Tailwindcss-airbnb-clone
+
+![Airbnb homepage clone](./public/screencapture.png)
