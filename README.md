@@ -1,4 +1,4 @@
-# Airbnb Homepage build with Tailwind CSS
+# Adobe XD FreeWire frame to Tailwind CSS component
 
 A simple starter project for playing around with Tailwind in a proper PostCSS environment. I used Airbnb as a source of inspiration to teach how to use the framework.
 
@@ -54,4 +54,4 @@ After that's done, check out `./public/build/tailwind.css` to see the optimized 
 
 # Tailwindcss-airbnb-clone
 
-![Airbnb homepage clone](./public/screencapture.png)
+![WireFrame ui kit to Tailwind css](./freewire-free.jpg)
